@@ -56,4 +56,37 @@ h3 {
     background-image: url(images/dream-bg.png);
     background-repeat: no-repeat;
     background-position: right bottom;
+    padding-right: 3%;
+}
+
+.box-shadow {
+    box-shadow: 10px 10px 40px black;
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 2%;
+    border-radius: 8%;
+}
+
+.achivement {
+    margin-left: 40px;
+}
+
+.achivement-bg {
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: bottom left;
+}
+
+#shoes {
+    border-left: 6px solid tomato;
+}
+
+#cap {
+    border-left: 6px solid purple;
+}
+
+.footer {
+    font-weight: 700;
+    text-align: center;
 }
