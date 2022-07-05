@@ -1,0 +1,37 @@
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+h3 {
+    font-size: 20px;
+}
+
+.name {
+    color: rgb(0, 148, 148);
+}
+
+.first-part {
+    width: 50%;
+    padding-left: 3%;
+}
+
+.first-part img {
+    width: 70%;
+}
+
+.flex-container {
+    display: flex;
+}
+
+.company-button {
+    text-decoration: none;
+    background-image: linear-gradient(rgb(253, 59, 59), rgb(27, 34, 39));
+    padding: 10px 30px;
+    color: azure;
+    font-weight: 800;
+    border-radius: 45px;
+}
