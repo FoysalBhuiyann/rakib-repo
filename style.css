@@ -20,18 +20,28 @@ h3 {
 }
 
 .first-part img {
-    width: 70%;
+    width: 80%;
 }
 
 .flex-container {
     display: flex;
+    margin-bottom: 150px;
 }
 
 .company-button {
     text-decoration: none;
-    background-image: linear-gradient(rgb(253, 59, 59), rgb(27, 34, 39));
+    background-image: linear-gradient(rgb(211, 168, 168), rgb(107, 144, 170));
     padding: 10px 30px;
-    color: azure;
+    color: rgb(251, 255, 255);
     font-weight: 800;
     border-radius: 45px;
+}
+
+.second-part {
+    width: 50%;
+    padding-right: 3%;
+}
+
+.second-part img {
+    width: 80%;
 }
